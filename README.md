@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 
 # 💫 About Me:
 🔭 I’m currently studying about Business Analytics and Artificial Intelligence. Now I'm senior in Faculty of Information System, University of Economics and Law, Vietnam National University, Ho Chi Minh City <br>🔭 I’m looking for job positions related to Data Analytics, Data Engineer, Business Intelligence or Low - Code Developer<br>🔭 I'm the enthusiastic data intern with background in SQL, BI tools like Tableau, Power BI as well as knowledge base in database and data warehouse with a deep analytics mindset. With having foundations in domain knowledge about Finance, Business, Marketing is supportive and advantageous for my data understanding and effective data analytics. Moerover, I also proficient in some programming language to analyze data, build and develop system or website.
